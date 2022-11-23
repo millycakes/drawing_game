@@ -1,7 +1,10 @@
+import Home from "./pages/Home"
+import Room from "./pages/Room"
+
 export default function App() {
   return (
     <div className="App">
-      <h1>Test</h1>
+      <Room />
     </div>
   );
 }
