@@ -1,13 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-import Test from "./Test"
-
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <h1>Drawing Game</h1>
+      <h1>Test</h1>
     </div>
   );
 }
-
-export default App;
